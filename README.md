@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/JhonatanBS/JhonatanBS/blob/main/Perfil%20do%20github.png"  height="90em">
+<img align="right" src="https://github.com/JhonatanBS/JhonatanBS/blob/main/Perfil%20do%20github.png" height="30%">
 
 <div align="left"> 
   
