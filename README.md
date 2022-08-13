@@ -2,7 +2,7 @@
 
 <div align="left"> 
   
-<h1>My name is Jhonatan  :boy: </h1>
+<h1>My name is Jhonatan  <img src="https://komarev.com/ghpvc/?username=JhonatanBS&color=F58220" alt="visits views" /> </h1>
 
 - I'm a programmer passionate about developing both backend and frontend :computer:.
 - I love games that challenge! 	:joystick:
