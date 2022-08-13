@@ -11,7 +11,7 @@
 
 > These are my main characteristics HAHA :grinning:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatanBS&show_icons=true&theme=codeSTACKr&hide_rank=true&icon_color=F58220&title_color=F58220)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatanBS&show_icons=true&theme=codeSTACKr&hide_rank=true&icon_color=F58220&title_color=F58220&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanBS&theme=codeSTACKr&layout=compact&title_color=F58220)](https://github.com/JhonatanBS/github-readme-stats)
 
