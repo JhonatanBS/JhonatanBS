@@ -4,7 +4,7 @@
   
 <h1>Welcome, I'm Jhonatan. <img src="https://komarev.com/ghpvc/?username=JhonatanBS&color=F58220" alt="visits views" /> </h1>
 
-- I'm a programmer passionate about developing both backend and frontend :computer:.
+- I'm a programmer passionate about developing both backend and frontend :computer:
 - I love games that challenge! 	:joystick:
 - I practice physical activity both for my well-being and for my physique :weight_lifting_man:
 - I like to read books :book:
