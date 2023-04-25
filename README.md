@@ -6,7 +6,6 @@
 
 - I'm a programmer passionate about developing both backend and frontend :computer:
 - I love games that challenge! 	:joystick:
-- I practice physical activity both for my well-being and for my physique :weight_lifting_man:
 - I like to read books :book:
 
 > These are my main characteristics HAHA :grinning:
