@@ -1,5 +1,3 @@
-<img align="right" height="590em" src="https://github.com/JhonatanBS/JhonatanBS/blob/main/Perfil%20do%20github.svg" />
-
 <div align="left"> 
   
 <h1>Welcome, I'm Jhonatan. <img src="https://komarev.com/ghpvc/?username=JhonatanBS&color=F58220" alt="visits views" /> </h1>
