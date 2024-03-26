@@ -15,9 +15,8 @@
 </p>
 </div>
 
-<hr>
-<img src="./network.gif" width="300px" height="100px"/>
 
+## Networks
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatanbezerradesenvolvedor/)
 
