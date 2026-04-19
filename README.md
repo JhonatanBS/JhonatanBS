@@ -5,15 +5,15 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonatanBS&show_icons=true&theme=codeSTACKr&hide_rank=true&icon_color=F58220&title_color=F58220&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JhonatanBS&show_icons=true&theme=dark&hide_rank=true&icon_color=F58220&title_color=F58220&include_all_commits=true" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JhonatanBS&locale=en&mode=daily&theme=blue&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=JhonatanBS&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanBS&theme=codeSTACKr&layout=compact&title_color=F58220)](https://github.com/JhonatanBS/github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanBS&theme=dark&layout=compact&title_color=F58220)](https://github.com/JhonatanBS/github-readme-stats" />
 </div>
 
 <hr>
