@@ -1,22 +1,14 @@
-<div align="center"> 
+<div align="left" width="100%" height="100%"> 
   <img src="https://komarev.com/ghpvc/?username=JhonatanBS&color=F58220" alt="visits views" />
   <p>Hey there!</p>
    <p>I'm <strong>Jhonatan</strong>. Welcome to my profile.</p>
+  
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFoYTJhMWt6a3hoZW4xa2F1d2kyaDk3dmJlcW5sNHFweHVndTI1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="520px" align="right">
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=JhonatanBS&show_icons=true&theme=dark&hide_rank=true&icon_color=F58220&title_color=F58220&include_all_commits=true" width="350px"/>
+  <img src="https://streak-stats.demolab.com?user=JhonatanBS&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" width="350px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanBS&theme=dark&layout=compact&title_color=F58220)](https://github.com/JhonatanBS/github-readme-stats" width="350px"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonatanBS&show_icons=true&theme=dark&hide_rank=true&icon_color=F58220&title_color=F58220&include_all_commits=true" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JhonatanBS&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanBS&theme=dark&layout=compact&title_color=F58220)](https://github.com/JhonatanBS/github-readme-stats" />
-</div>
-
-<hr>
 
 <div align="left">
   
