@@ -3,7 +3,7 @@
   <p>Hey there!</p>
    <p>I'm <strong>Jhonatan</strong>. Welcome to my profile.</p>
   
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFoYTJhMWt6a3hoZW4xa2F1d2kyaDk3dmJlcW5sNHFweHVndTI1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="520px" align="right">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFoYTJhMWt6a3hoZW4xa2F1d2kyaDk3dmJlcW5sNHFweHVndTI1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="400px" align="right">
  
   <img src="https://github-readme-stats.vercel.app/api?username=JhonatanBS&show_icons=true&theme=dark&hide_rank=true&icon_color=F58220&title_color=F58220&include_all_commits=true" width="350px"/>
   <img src="https://streak-stats.demolab.com?user=JhonatanBS&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" width="350px"/>
